@@ -40,40 +40,21 @@ const IndexPage = props => {
       <Container variant='full' sx={styles.heroContainer}>
         <Hero content={content['hero']} reverse />
       </Container>
-      <Divider space='4' />
-      <Companies content={content['companies']} />
-      <Divider space='5' />
       <Divider space='5' />
       <Container variant='full' sx={styles.buildBrandContainer}>
         <BuildBrand content={content['build-brand']} />
       </Container>
       <Divider space='5' />
       <Divider space='5' />
-      <FeatureOne content={content['feature-one']} />
-      <Divider space='5' />
-      <Divider space='5' />
       <WhyChooseUs content={content['why-choose-us']} />
-      <Divider space='5' />
-      <Divider space='5' />
-      <FeatureTwo content={content['feature-two']} reverse />
-      <Divider space='5' />
-      <Divider space='5' />
-      <Stats content={content['stats']} />
       <Divider space='4' />
       <Strategies content={content['strategies']} />
-      <Divider space='4' />
-      <Download content={content['download']} />
-      <Divider space='5' />
-      <Divider space='5' />
-      <Testimonials content={content['testimonials']} />
-      <Divider space='5' />
-      <Divider space='5' />
-      <Container sx={styles.getStartedContainer}>
-        <GetStarted content={content['get-started']} />
-      </Container>
       <Divider space='5' />
       <Divider space='5' />
       <Blog content={content['latest-blogs']} />
+      <Divider space='5' />
+      <Divider space='5' />
+      <Testimonials content={content['testimonials']} />
       <Divider space='5' />
       <Footer content={content['footer']} />
     </Layout>
