@@ -33,14 +33,11 @@
           "text": "Understand First. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt."
         },
         {
-          "text": "John Doe",
+          "text": "Client 1",
           "color": "omegaDark"
         },
         {
           "text": "April 22, 2021"
-        },
-        {
-          "text": "5 min"
         }
       ],
       "avatar": {
@@ -49,7 +46,7 @@
       },
       "images": [
         {
-          "src": "../../../assets/flexiblocks/blog/blog-1.jpg",
+          "src": "../../../assets/flexiblocks/projects/projet1.jpeg",
           "alt": "alt text"
         }
       ]
@@ -76,14 +73,11 @@
           "text": "Understand First. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt."
         },
         {
-          "text": "John Doe",
+          "text": "Client 2",
           "color": "omegaDark"
         },
         {
           "text": "May 10, 2021"
-        },
-        {
-          "text": "10 min"
         }
       ],
       "avatar": {
@@ -92,7 +86,7 @@
       },
       "images": [
         {
-          "src": "../../../assets/flexiblocks/blog/blog-2.jpg",
+          "src": "../../../assets/flexiblocks/projects/projet2.jpeg",
           "alt": "alt text"
         }
       ]
@@ -119,14 +113,11 @@
           "text": "Understand First. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt."
         },
         {
-          "text": "John Doe",
+          "text": "Client 3",
           "color": "omegaDark"
         },
         {
           "text": "March 16, 2021"
-        },
-        {
-          "text": "7 min"
         }
       ],
       "avatar": {
@@ -135,7 +126,7 @@
       },
       "images": [
         {
-          "src": "../../../assets/flexiblocks/blog/blog-3.jpg",
+          "src": "../../../assets/flexiblocks/projects/projet3.jpeg",
           "alt": "alt text"
         }
       ]

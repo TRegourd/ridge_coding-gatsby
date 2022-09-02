@@ -10,14 +10,13 @@ import Header from '@solid-ui-blocks/Header/Block01'
 import Hero from '@solid-ui-blocks/Hero/Block01'
 import Companies from '@solid-ui-blocks/Companies/Block01'
 import BuildBrand from '@solid-ui-blocks/FeaturesWithPhoto/Block04'
-import FeatureOne from '@solid-ui-blocks/FeaturesWithPhoto/Block01'
+
 import WhyChooseUs from '@solid-ui-blocks/Features/Block04'
-import FeatureTwo from '@solid-ui-blocks/FeaturesWithPhoto/Block02'
-import Stats from '@solid-ui-blocks/Stats/Block01'
+
 import Strategies from '@solid-ui-blocks/Features/Block06'
-import Download from '@solid-ui-blocks/CallToAction/Block02'
+
 import Testimonials from '@solid-ui-blocks/Testimonials/Block02'
-import GetStarted from '@solid-ui-blocks/CallToAction/Block01'
+
 import Blog from '@solid-ui-blocks/Blog/Block01'
 import Footer from '@solid-ui-blocks/Footer/Block01'
 import { normalizeBlockContentNodes } from '@blocks-helpers'
