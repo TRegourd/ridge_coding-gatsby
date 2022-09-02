@@ -3,102 +3,136 @@
     {
       "text": [
         {
-          "text": "Email Marketing",
+          "text": "HTML",
           "color": "omegaDark",
           "variant": "h5"
         },
         {
-          "text": "Understand First. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt."
+          "text": "Le language de base de tous les pages web"
         }
       ],
       "icon": {
-        "src": "../../../assets/flexiblocks/icons/bx-mail-send.svg",
-        "bg": "betaLighter",
+        "src": "../../../assets/flexiblocks/index/html5.svg",
+        "bg": "alphaLighter",
         "color": "beta"
       }
     },
     {
       "text": [
         {
-          "text": "Email Marketing",
+          "text": "CSS",
           "color": "omegaDark",
           "variant": "h5"
         },
         {
-          "text": "Understand First. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt."
+          "text": "Le language pour styliser les pages web"
         }
       ],
       "icon": {
-        "src": "../../../assets/flexiblocks/icons/bx-mail-send.svg",
-        "bg": "betaLighter",
+        "src": "../../../assets/flexiblocks/index/css3.svg",
+        "bg": "alphaLighter",
         "color": "beta"
       }
     },
     {
       "text": [
         {
-          "text": "Email Marketing",
+          "text": "JavaScript",
           "color": "omegaDark",
           "variant": "h5"
         },
         {
-          "text": "Understand First. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt."
+          "text": "Le language qui donne vie aux pages web."
         }
       ],
       "icon": {
-        "src": "../../../assets/flexiblocks/icons/bx-mail-send.svg",
-        "bg": "betaLighter",
+        "src": "../../../assets/flexiblocks/index/js.svg",
+        "bg": "alphaLighter",
         "color": "beta"
       }
     },
     {
       "text": [
         {
-          "text": "Facebook Marketing",
+          "text": "TypeScript",
           "color": "omegaDark",
           "variant": "h5"
         },
         {
-          "text": "Understand First. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt."
+          "text": "La version musclée de JavaScript."
         }
       ],
       "icon": {
-        "src": "../../../assets/flexiblocks/icons/bxl-facebook.svg",
-        "bg": "betaLighter",
+        "src": "../../../assets/flexiblocks/index/ts.svg",
+        "bg": "alphaLighter",
         "color": "beta"
       }
     },
     {
       "text": [
         {
-          "text": "Google Adwords",
+          "text": "React",
           "color": "omegaDark",
           "variant": "h5"
         },
         {
-          "text": "Understand First. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt."
+          "text": "Pour developper de superbes interfaces utilisateur"
         }
       ],
       "icon": {
-        "src": "../../../assets/flexiblocks/icons/bxl-google.svg",
-        "bg": "betaLighter",
+        "src": "../../../assets/flexiblocks/index/react.svg",
+        "bg": "alphaLighter",
         "color": "beta"
       }
     },
     {
       "text": [
         {
-          "text": "In-App Marketing",
+          "text": "Node.js",
           "color": "omegaDark",
           "variant": "h5"
         },
         {
-          "text": "Understand First. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt."
+          "text": "La partie non visible des applications"
         }
       ],
       "icon": {
-        "src": "../../../assets/flexiblocks/icons/bx-mobile-alt.svg",
-        "bg": "betaLighter",
+        "src": "../../../assets/flexiblocks/index/node-js.svg",
+        "bg": "alphaLighter",
+        "color": "beta"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Gatsby",
+          "color": "omegaDark",
+          "variant": "h5"
+        },
+        {
+          "text": "Des sites vitrines optimisés et personalisables"
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/index/gatsby.svg",
+        "bg": "alphaLighter",
+        "color": "beta"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Angular",
+          "color": "omegaDark",
+          "variant": "h5"
+        },
+        {
+          "text": "Pour les applications les plus complexes"
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/index/angular.svg",
+        "bg": "alphaLighter",
         "color": "beta"
       }
     }

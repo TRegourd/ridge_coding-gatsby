@@ -3,20 +3,20 @@
     {
       "text": [
         {
-          "text": "Questions"
+          "text": "Message"
         },
         {
-          "text": "Get in Touch",
+          "text": "Nous contacter",
           "color": "omegaDarker",
           "variant": "h2",
           "space": 3
         },
         {
-          "text": "Any questions or remarks?",
+          "text": "Un projet ? Une mission ?",
           "color": "omegaDark"
         },
         {
-          "text": "We'll get back you within 24 hours.",
+          "text": "Nous serons ravi de l'etudier ensemble !",
           "color": "omega"
         }
       ],
@@ -32,7 +32,7 @@
             "identifier": "name",
             "type": "TEXT",
             "placeholder": {
-              "text": "Full Name"
+              "text": "Nom"
             },
             "icon": {
               "src": "../../assets/flexiblocks/icons/bx-user.svg",
@@ -43,7 +43,7 @@
             "identifier": "email",
             "type": "EMAIL",
             "placeholder": {
-              "text": "Email Address"
+              "text": "Adresse Email"
             },
             "icon": {
               "src": "../../assets/flexiblocks/icons/bx-envelope.svg",
@@ -54,7 +54,7 @@
             "identifier": "subject",
             "type": "TEXT",
             "placeholder": {
-              "text": "Subject"
+              "text": "Objet"
             },
             "icon": {
               "src": "../../assets/flexiblocks/icons/bx-comment-detail.svg",
@@ -65,7 +65,7 @@
             "identifier": "message",
             "type": "TEXTAREA",
             "placeholder": {
-              "text": "Enter your message"
+              "text": "Votre message"
             }
           },
           {
@@ -76,7 +76,7 @@
         ],
         "buttons": [
           {
-            "text": "Send Message",
+            "text": "Envoyer",
             "type": "SUBMIT",
             "variant": "secondary",
             "width": "200px"
@@ -87,33 +87,33 @@
     {
       "text": [
         {
-          "text": "Information"
+          "text": "Coordonnées"
         },
         {
-          "text": "Contact Details",
+          "text": "Nous trouver",
           "color": "omegaDarker",
           "variant": "h2",
           "space": 3
         },
         {
-          "text": "Have some feedback for us?",
+          "text": "Besoin de nous joindre directement ?",
           "color": "omegaDark"
         },
         {
-          "text": "Give us a call or send an email.",
+          "text": "N'hestiez pas à nous appeler ou à nous envoyer un email",
           "color": "omega"
         }
       ],
       "map": {
-        "lat": 59.955413,
-        "lng": 30.337844,
+        "lat": 45.564601,
+        "lng": 5.917781,
         "zoom": 12
       },
       "collection": [
         {
           "text": [
             {
-              "text": "+123 (4567) 8910",
+              "text": "+33 (0)695025391",
               "color": "omegaDarker",
               "variant": "h6"
             }
@@ -127,7 +127,7 @@
         {
           "text": [
             {
-              "text": "hello@example.com",
+              "text": "contact@ridgeconding.com",
               "color": "omegaDarker",
               "variant": "h6"
             }
@@ -141,7 +141,7 @@
         {
           "text": [
             {
-              "text": "120 Street Lorem Ipsum Sit Amet",
+              "text": "Chambéry, France",
               "color": "omegaDarker",
               "variant": "h6"
             }

@@ -3,55 +3,33 @@
     {
       "text": [
         {
-          "text": "AirBnB"
+          "text": "mobile"
         }
       ],
       "icon": {
-        "src": "../../../assets/flexiblocks/companies/company-airbnb.svg",
+        "src": "../../../assets/flexiblocks/index/mobile-screen-button-solid.svg",
         "alt": "alt text"
       }
     },
     {
       "text": [
         {
-          "text": "Amazon Web Services"
+          "text": "code"
         }
       ],
       "icon": {
-        "src": "../../../assets/flexiblocks/companies/company-amazon-web-services.svg",
+        "src": "../../../assets/flexiblocks/index/code-solid.svg",
         "alt": "alt text"
       }
     },
     {
       "text": [
         {
-          "text": "Cisco"
+          "text": "laptop"
         }
       ],
       "icon": {
-        "src": "../../../assets/flexiblocks/companies/company-shopify.svg",
-        "alt": "alt text"
-      }
-    },
-    {
-      "text": [
-        {
-          "text": "Confluence"
-        }
-      ],
-      "icon": {
-        "src": "../../../assets/flexiblocks/companies/company-confluence.svg",
-        "alt": "alt text"
-      }
-    },
-    {
-      "text": [
-        {
-          "text": "Linkedin"
-        }
-      ],
-      "icon": {
-        "src": "../../../assets/flexiblocks/companies/company-linkedin.svg",
+        "src": "../../../assets/flexiblocks/index/laptop-solid.svg",
         "alt": "alt text"
       }
     }

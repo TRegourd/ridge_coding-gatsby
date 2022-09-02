@@ -1,15 +1,12 @@
 {
   "text": [
     {
-      "text": "Build Your Brand",
-      "variant": "h2"
+      "text": "Nos Services",
+      "color": "alpha",
+      "variant": "h4"
     },
     {
       "text": "We help our clients achieve tangible, high-impact results.",
-      "variant": "medium"
-    },
-    {
-      "text": "tempor incididunt ut labore et dolore magna aliqua.",
       "variant": "medium"
     }
   ],
@@ -25,43 +22,31 @@
     {
       "text": [
         {
-          "text": "Targeted SEO",
+          "text": "Sites internet",
           "color": "omegaDarker",
           "variant": "h5"
         },
         {
-          "text": "As an Internet marketing strategy, SEO considers tempor incididunt ut labore et."
+          "text": "Dotez vous d'un site professionel pour présenter votre entreprise"
         }
       ]
     },
     {
       "text": [
         {
-          "text": "Marketing outline",
+          "text": "Applications Web",
           "color": "omegaDarker",
           "variant": "h5"
         },
         {
-          "text": "Social media marketing is the use of social media tempor incididunt ut labore et."
+          "text": "Developpons ensemble votre future application métier"
         }
       ]
     },
     {
       "text": [
         {
-          "text": "Content Writing",
-          "color": "omegaDarker",
-          "variant": "h5"
-        },
-        {
-          "text": "Content marketing is a form of marketing focused tempor incididunt ut labore et."
-        }
-      ]
-    },
-    {
-      "text": [
-        {
-          "text": "Market Analysis",
+          "text": "Maintenance de code",
           "color": "omegaDarker",
           "variant": "h5"
         },
@@ -73,7 +58,7 @@
     {
       "text": [
         {
-          "text": "Innovative Solutions",
+          "text": "Evolution et Refonte",
           "color": "omegaDarker",
           "variant": "h5"
         },
@@ -85,7 +70,19 @@
     {
       "text": [
         {
-          "text": "Optimal Choice",
+          "text": "Applications mobile",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "Content marketing is a form of marketing focused tempor incididunt ut labore et."
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "Gestion de contenu",
           "color": "omegaDarker",
           "variant": "h5"
         },

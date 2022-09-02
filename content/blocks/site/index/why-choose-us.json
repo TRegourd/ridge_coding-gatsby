@@ -1,20 +1,20 @@
 {
   "text": [
     {
-      "text": "Get access to unlimited resources",
+      "text": "Notre Expertise",
       "color": "alpha",
       "variant": "h4"
     },
     {
-      "text": "Why Choose Us Over Competition?",
-      "variant": "h2"
+      "text": "Pourquoi choisir Ridge Coding",
+      "variant": "medium"
     }
   ],
   "collection": [
     {
       "text": [
         {
-          "text": "Advanced Analytics",
+          "text": "Proximité",
           "color": "omegaDark",
           "variant": "h5"
         },
@@ -31,7 +31,7 @@
     {
       "text": [
         {
-          "text": "Expert Support",
+          "text": "Confidentialité",
           "color": "omegaDark",
           "variant": "h5"
         },
@@ -48,7 +48,7 @@
     {
       "text": [
         {
-          "text": "Lifetime Access",
+          "text": "Créativité",
           "color": "omegaDark",
           "variant": "h5"
         },
@@ -65,7 +65,7 @@
     {
       "text": [
         {
-          "text": "Creative Solutions",
+          "text": "Disponibilité",
           "color": "omegaDark",
           "variant": "h5"
         },

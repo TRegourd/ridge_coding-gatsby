@@ -6,15 +6,15 @@ import colors from '@elegantstack/solid-ui-theme/src/color-preset'
 export default {
   ...defaultColors,
   // Alpha (primary)
-  alphaLighter: colors.blue[100],
-  alphaLight: colors.blue[300],
-  alpha: colors.blue[500],
-  alphaDark: colors.blue[600],
-  alphaDarker: colors.blue[800],
+  alphaLighter: '#67c2bb',
+  alphaLight: '#34ada5',
+  alpha: '#01998e',
+  alphaDark: '#017a72',
+  alphaDarker: '#017a72',
   // beta (secondary)
-  betaLighter: colors.lime[100],
-  betaLight: colors.lime[300],
-  beta: colors.lime[500],
-  betaDark: colors.lime[700],
-  betaDarker: colors.lime[800]
+  betaLighter: '#668280',
+  betaLight: '#335855',
+  beta: '#002e2b',
+  betaDark: '#002522',
+  betaDarker: '#002522'
 }

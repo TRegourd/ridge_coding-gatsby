@@ -1,22 +1,22 @@
 {
   "text": [
     {
-      "text": "We Drive Acquisition for Growing Brands",
+      "text": "Développement Web au pied des Alpes",
       "variant": "h1"
     },
     {
-      "text": "Hassle-free platform and specialists to help you with your marketing campaigns.",
+      "text": "Ridge Coding vous accompagne dans tous vos projets de sites et d'applications web",
       "variant": "medium"
     }
   ],
   "images": [
     {
-      "src": "../../../assets/flexiblocks/homepage/consulting/hero.png",
+      "src": "../../../assets/flexiblocks/index/hero-2.png",
       "alt": "alt text",
       "objectPosition": "center bottom"
     },
     {
-      "src": "../../../assets/flexiblocks/homepage/consulting/hero-overlay-one.png",
+      "src": "../../../assets/flexiblocks/index/hero-1.jpeg",
       "alt": "alt text",
       "radius": "lg",
       "shadow": "default",
@@ -27,7 +27,7 @@
       }
     },
     {
-      "src": "../../../assets/flexiblocks/homepage/consulting/hero-overlay-two.png",
+      "src": "../../../assets/flexiblocks/index/hero-3.jpeg",
       "alt": "alt text",
       "radius": "lg",
       "shadow": "default",
@@ -40,16 +40,10 @@
   ],
   "buttons": [
     {
-      "text": "Singup Now",
-      "type": "MODAL",
-      "link": "authentication",
-      "variant": "primary"
-    },
-    {
-      "text": "Schedule Demo",
+      "text": "Nous contacter",
       "type": "MODAL",
       "link": "contact",
-      "variant": "primary-light"
+      "variant": "primary"
     }
   ]
 }

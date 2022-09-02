@@ -39,7 +39,10 @@ const IndexPage = props => {
       <Header content={content['header']} />
       <Container variant='full' sx={styles.heroContainer}>
         <Hero content={content['hero']} reverse />
+        <Divider space='4' />
       </Container>
+      <Divider space='4' />
+      <Companies content={content['companies']} />
       <Divider space='5' />
       <Container variant='full' sx={styles.buildBrandContainer}>
         <BuildBrand content={content['build-brand']} />

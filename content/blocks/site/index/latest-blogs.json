@@ -1,11 +1,12 @@
 {
   "text": [
     {
-      "text": "Latest From Our Blog",
-      "variant": "h2"
+      "text": "Nos réalisations",
+      "color": "alpha",
+      "variant": "h4"
     },
     {
-      "text": "With FlexiBlog Theme, add a fully functional blog to your site.",
+      "text": "Les derniers projets pour nos clients",
       "variant": "medium"
     }
   ],
@@ -21,7 +22,7 @@
       "text": [
         {
           "text": "Innovation",
-          "color": "alphaDark"
+          "color": "betaDark"
         },
         {
           "text": "Best Digital Marketing Stats We’ve Seen This Week",
@@ -64,7 +65,7 @@
       "text": [
         {
           "text": "Management",
-          "color": "alphaDark"
+          "color": "betaDark"
         },
         {
           "text": "A Marketer’s Guide to Price Comparison Websites",
@@ -107,7 +108,7 @@
       "text": [
         {
           "text": "Case Studies",
-          "color": "alphaDark"
+          "color": "betaDark"
         },
         {
           "text": "50 social impact innovations that might save the world",
