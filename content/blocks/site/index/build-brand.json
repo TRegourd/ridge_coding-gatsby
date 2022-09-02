@@ -6,13 +6,13 @@
       "variant": "h4"
     },
     {
-      "text": "We help our clients achieve tangible, high-impact results.",
+      "text": "Decouvrez les projets sur lesquels nous pouvons vous accompagner",
       "variant": "medium"
     }
   ],
   "images": [
     {
-      "src": "../../../assets/flexiblocks/homepage/consulting/build-brand.jpg",
+      "src": "../../../assets/flexiblocks/index/services.jpeg",
       "alt": "alt text",
       "radius": "lg",
       "shadow": "lg"

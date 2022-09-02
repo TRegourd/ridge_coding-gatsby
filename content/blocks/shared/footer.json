@@ -9,24 +9,18 @@
     {
       "text": [
         {
-          "text": "Quick Links"
+          "text": "Accès Rapide"
         }
       ],
       "buttons": [
         {
-          "text": "Home",
+          "text": "Haut de Page",
           "type": "ANCHOR",
           "link": "#hero",
           "variant": "links.nav-light"
         },
         {
-          "text": "Blog",
-          "type": "MODAL",
-          "link": "advertisement",
-          "variant": "links.nav-light"
-        },
-        {
-          "text": "Contact Us",
+          "text": "Nous contacter",
           "type": "MODAL",
           "link": "contact",
           "variant": "links.nav-light"
@@ -36,24 +30,18 @@
     {
       "text": [
         {
-          "text": "Legal Stuff"
+          "text": "Mentions Légales"
         }
       ],
       "buttons": [
         {
-          "text": "Privacy Notice",
+          "text": "CGV",
           "type": "PAGE",
           "link": "",
           "variant": "links.nav-light"
         },
         {
-          "text": "Cookie Policy",
-          "type": "PAGE",
-          "link": "",
-          "variant": "links.nav-light"
-        },
-        {
-          "text": "Terms Of Use",
+          "text": "Politique de cookies",
           "type": "PAGE",
           "link": "",
           "variant": "links.nav-light"
@@ -63,38 +51,26 @@
     {
       "text": [
         {
-          "text": "Social Media"
+          "text": "Social"
         }
       ],
       "buttons": [
         {
           "text": "Github",
           "type": "PAGE",
-          "link": "https://github.com/gatsby",
+          "link": "https://github.com/TRegourd",
           "variant": "links.nav-light",
           "icon": {
-            "src": "../../assets/flexiblocks/icons/bxl-github.svg",
-            "color": "#2f4f4f"
+            "src": "../../assets/flexiblocks/index/github.svg"
           }
         },
         {
-          "text": "Twitter",
+          "text": "Linkedin",
           "type": "PAGE",
-          "link": "https://twitter.com/gatsby",
+          "link": "https://www.linkedin.com/company/ridge-coding/",
           "variant": "links.nav-light",
           "icon": {
-            "src": "../../assets/flexiblocks/icons/bxl-twitter.svg",
-            "color": "#1da1f2"
-          }
-        },
-        {
-          "text": "Instagram",
-          "type": "PAGE",
-          "link": "https://instagram.com/gatsby",
-          "variant": "links.nav-light",
-          "icon": {
-            "src": "../../assets/flexiblocks/icons/bxl-instagram.svg",
-            "color": "#c13584"
+            "src": "../../assets/flexiblocks/index/linkedin.svg"
           }
         }
       ]
