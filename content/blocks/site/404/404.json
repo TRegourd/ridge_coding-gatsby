@@ -1,0 +1,24 @@
+{
+  "text": [
+    {
+      "text": "404 Page Not Found",
+      "color": "omegaDark",
+      "variant": "h4"
+    },
+    {
+      "text": "Désolé, la page demandée n'existe pas.",
+      "variant": "h2"
+    },
+    {
+      "text": "Vérifiez l'adresse demandée"
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Retour à l'accueil",
+      "type": "PAGE",
+      "link": "/",
+      "variant": "primary"
+    }
+  ]
+}
